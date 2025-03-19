@@ -1,0 +1,18 @@
+{
+  "name": "etalase-pricing",
+  "version": "1.0.0",
+  "description": "Aplikasi React untuk menghitung harga etalase kaca aluminium.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
